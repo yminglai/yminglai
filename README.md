@@ -6,7 +6,7 @@ Researcher @[IVILAB](https://ivilab.org/), @[CLULAB](https://clulab.org/), @[ML4
  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-I am a high-achieving Computer Science student at the University of Arizona with a perfect 4.0 GPA, specializing in software development, probabilistic modeling, and machine learning. With hands-on experience as a Machine Leanring Engineer intern at [CoreTechs](https://www.coretechs.com/), where I contributed to full-time, in-person and client-oriented projects. I was a visiting researcher in Tsinghua University this summer working on mechanism interpretability and knowledge graph.
+I am a high-achieving Computer Science student at the University of Arizona with a perfect 4.0 GPA, specializing in LLM reasoning, interpretability, and machine learning. With hands-on experience as a Machine Leanring Engineer intern at [CoreTechs](https://www.coretechs.com/), where I contributed to full-time, in-person and client-oriented projects. I was a visiting researcher in Tsinghua University this summer working on mechanism interpretability and knowledge graph reasoning.
 
 I am proficient in Python, JavaScript, and AWS, and have successfully led projects involving AI integration, web development, and data analysis. My academic journey includes understanding and improving LLM reasoning.
 
